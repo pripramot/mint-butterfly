@@ -168,3 +168,170 @@ Initially created by [onWidget](https://onwidget.com) and maintained by a commun
 ## License
 
 **Tailnext** is licensed under the MIT license — see the [LICENSE](https://github.com/onwidget/tailnext/blob/main/LICENSE.md) file for details.
+
+
+Skip to content
+
+Back
+
+You're almost done.
+Please follow the steps to configure your Project and deploy it.
+
+tailnext
+Create Git Repository
+Deploy
+GIT REPOSITORY
+onwidget/tailnext
+main
+./
+Import a different Git Repository →
+Browse Templates →
+Create Git Repository
+To ensure you can easily update your project after deploying it, a Git repository must be created. Every push to that Git repository will be deployed automatically.
+pripramot/mint-butterfly
+---
+
+Deploy
+Deployment started 2m ago...
+Building
+2m 22s
+Running build in Washington, D.C., USA (East) – iad1
+Cloning github.com/pripramot/mint-butterfly (Branch: main, Commit: 71089b0)
+Previous build cache not available
+Cloning completed: 595.259ms
+Running "vercel build"
+Vercel CLI 33.5.1
+Warning: Detected "engines": { "node": ">=18.17.0" } in your `package.json` that will automatically upgrade when a new major Node.js Version is released. Learn More: http://vercel.link/node-version
+Installing dependencies...
+yarn install v1.22.17
+info No lockfile found.
+[1/5] Validating package.json...
+[2/5] Resolving packages...
+warning @storybook/nextjs > @storybook/builder-webpack5 > fork-ts-checker-webpack-plugin > memfs@3.6.0: this will be v4
+warning @storybook/nextjs > @storybook/builder-webpack5 > webpack-dev-middleware > memfs@3.6.0: this will be v4
+[3/5] Fetching packages...
+warning sharp@0.33.2: The engine "libvips" appears to be invalid.
+warning @img/sharp-libvips-darwin-arm64@1.0.1: The engine "pnpm" appears to be invalid.
+warning @img/sharp-libvips-darwin-arm64@1.0.1: The engine "macos" appears to be invalid.
+warning @img/sharp-libvips-darwin-x64@1.0.1: The engine "pnpm" appears to be invalid.
+warning @img/sharp-libvips-darwin-x64@1.0.1: The engine "macos" appears to be invalid.
+warning @img/sharp-darwin-x64@0.33.2: The engine "pnpm" appears to be invalid.
+warning @img/sharp-darwin-x64@0.33.2: The engine "glibc" appears to be invalid.
+warning @img/sharp-darwin-arm64@0.33.2: The engine "pnpm" appears to be invalid.
+warning @img/sharp-darwin-arm64@0.33.2: The engine "glibc" appears to be invalid.
+warning @img/sharp-libvips-linux-arm64@1.0.1: The engine "pnpm" appears to be invalid.
+warning @img/sharp-libvips-linux-arm64@1.0.1: The engine "glibc" appears to be invalid.
+warning @img/sharp-libvips-linuxmusl-arm64@1.0.1: The engine "pnpm" appears to be invalid.
+warning @img/sharp-libvips-linuxmusl-arm64@1.0.1: The engine "musl" appears to be invalid.
+warning @img/sharp-linux-arm@0.33.2: The engine "pnpm" appears to be invalid.
+warning @img/sharp-linux-arm@0.33.2: The engine "glibc" appears to be invalid.
+warning @img/sharp-libvips-linuxmusl-x64@1.0.1: The engine "pnpm" appears to be invalid.
+warning @img/sharp-libvips-linuxmusl-x64@1.0.1: The engine "musl" appears to be invalid.
+warning @img/sharp-linux-s390x@0.33.2: The engine "pnpm" appears to be invalid.
+warning @img/sharp-linux-s390x@0.33.2: The engine "glibc" appears to be invalid.
+warning @img/sharp-libvips-linux-s390x@1.0.1: The engine "pnpm" appears to be invalid.
+warning @img/sharp-libvips-linux-s390x@1.0.1: The engine "glibc" appears to be invalid.
+warning @img/sharp-linux-x64@0.33.2: The engine "pnpm" appears to be invalid.
+warning @img/sharp-linux-x64@0.33.2: The engine "glibc" appears to be invalid.
+warning @img/sharp-wasm32@0.33.2: The engine "pnpm" appears to be invalid.
+warning @img/sharp-linuxmusl-arm64@0.33.2: The engine "pnpm" appears to be invalid.
+warning @img/sharp-linuxmusl-arm64@0.33.2: The engine "musl" appears to be invalid.
+warning @img/sharp-linuxmusl-x64@0.33.2: The engine "pnpm" appears to be invalid.
+warning @img/sharp-linuxmusl-x64@0.33.2: The engine "musl" appears to be invalid.
+warning @img/sharp-win32-x64@0.33.2: The engine "pnpm" appears to be invalid.
+warning @img/sharp-win32-ia32@0.33.2: The engine "pnpm" appears to be invalid.
+warning @img/sharp-libvips-linux-x64@1.0.1: The engine "pnpm" appears to be invalid.
+warning @img/sharp-libvips-linux-x64@1.0.1: The engine "glibc" appears to be invalid.
+warning @img/sharp-libvips-linux-arm@1.0.1: The engine "pnpm" appears to be invalid.
+warning @img/sharp-libvips-linux-arm@1.0.1: The engine "glibc" appears to be invalid.
+warning @img/sharp-linux-arm64@0.33.2: The engine "pnpm" appears to be invalid.
+warning @img/sharp-linux-arm64@0.33.2: The engine "glibc" appears to be invalid.
+[4/5] Linking dependencies...
+warning "@storybook/nextjs > postcss-loader@7.3.4" has unmet peer dependency "webpack@^5.0.0".
+warning "@storybook/nextjs > style-loader@3.3.4" has unmet peer dependency "webpack@^5.0.0".
+warning "@storybook/nextjs > sass-loader@12.6.0" has unmet peer dependency "webpack@^5.0.0".
+warning "@storybook/nextjs > node-polyfill-webpack-plugin@2.0.1" has unmet peer dependency "webpack@>=5".
+[5/5] Building fresh packages...
+success Saved lockfile.
+Done in 83.65s.
+Detected Next.js version: 14.1.0
+Running "yarn run build"
+yarn run v1.22.17
+$ next build
+Attention: Next.js now collects completely anonymous telemetry regarding usage.
+This information is used to shape Next.js' roadmap and prioritize features.
+You can learn more, including how to opt-out if you'd not like to participate in this anonymous program, by visiting the following URL:
+https://nextjs.org/telemetry
+   ▲ Next.js 14.1.0
+   Creating an optimized production build ...
+ ✓ Compiled successfully
+   Linting and checking validity of types ...
+   Collecting page data ...
+   Generating static pages (0/16) ...
+
+   Generating static pages (4/16) 
+
+   Generating static pages (8/16) 
+
+   Generating static pages (12/16) 
+
+ ✓ Generating static pages (16/16) 
+   Finalizing page optimization ...
+   Collecting build traces ...
+Route (app)                              Size     First Load JS
+┌ ○ /                                    4.41 kB         107 kB
+├ ○ /_not-found                          885 B          85.1 kB
+├ ● /[slug]                              292 B          89.4 kB
+├   ├ /demo-post-1
+├   ├ /demo-post-2
+├   ├ /demo-post-3
+├   └ /demo-post-4
+├ ○ /about                               4.36 kB         107 kB
+├ ○ /blog                                187 B          96.1 kB
+├ ○ /contact                             1.13 kB         104 kB
+├ ○ /faqs                                3.24 kB         106 kB
+├ ○ /pricing                             1.86 kB        97.8 kB
+├ ○ /privacy                             140 B          84.3 kB
+├ ○ /services                            953 B          96.9 kB
+└ ○ /terms                               140 B          84.3 kB
++ First Load JS shared by all            84.2 kB
+  ├ chunks/69-99377b6db6a9769e.js        28.9 kB
+  ├ chunks/fd9d1056-8274383bafd9d60d.js  53.4 kB
+  └ other shared chunks (total)          1.89 kB
+○  (Static)  prerendered as static content
+●  (SSG)     prerendered as static HTML (uses getStaticProps)
+$ next-sitemap
+✨ [next-sitemap] Loading next-sitemap config: file:///vercel/path0/next-sitemap.config.js
+✅ [next-sitemap] Generation completed
+┌───────────────┬────────┐
+│    (index)    │ Values │
+├───────────────┼────────┤
+│ indexSitemaps │   1    │
+│   sitemaps    │   1    │
+└───────────────┴────────┘
+-----------------------------------------------------
+ SITEMAP INDICES 
+-----------------------------------------------------
+   ○ https://tailnext.vercel.app/sitemap.xml
+-----------------------------------------------------
+ SITEMAPS 
+-----------------------------------------------------
+# ○ https://tailnext.vercel.app/sitemap-0.xml
+- Done in 38.77s.
+- Traced Next.js server files in: 62.998ms
+- Created all serverless functions in: 2.016s
+- Collected static files (public/, static/, .next/static): 8.524ms
+- Build Completed in /vercel/output [2m]
+- Deploying outputs...
+- Deployment Summary
+- Assigning Custom Domains
+Initial commit - 71089b
+Project Limit Reached
+
+## This Personal Account Avatar for pripramotPripramot Wechabut has reached the 200 project Hobby limit.
+
+To continue, please create a Pro team or select a different account.
+
+Learn more about Project Limits
+
+New Project – Vercel
