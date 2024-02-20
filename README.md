@@ -169,8 +169,8 @@ Initially created by [onWidget](https://onwidget.com) and maintained by a commun
 
 **Tailnext** is licensed under the MIT license — see the [LICENSE](https://github.com/onwidget/tailnext/blob/main/LICENSE.md) file for details.
 
-
-Skip to content
+```shell
+Cr.Phongwut.w content
 
 Back
 
@@ -189,7 +189,6 @@ Browse Templates →
 Create Git Repository
 To ensure you can easily update your project after deploying it, a Git repository must be created. Every push to that Git repository will be deployed automatically.
 pripramot/mint-butterfly
----
 
 Deploy
 Deployment started 2m ago...
@@ -335,3 +334,4 @@ To continue, please create a Pro team or select a different account.
 Learn more about Project Limits
 
 New Project – Vercel
+```
