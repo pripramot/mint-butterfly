@@ -1,4 +1,4 @@
-# Tailnext
+# Jiraphinya
 
 **Tailnext** is a free and open-source template to make your website using **[NextJS](https://nextjs.org/) + [Tailwind CSS](https://tailwindcss.com/)**. Ready to start a new project and designed taking into account best practices.
 
@@ -12,7 +12,7 @@
 
 <br>
 
-<img src="./screenshot.jpg" alt="Tailnext Theme Screenshot">
+<img alt="Nice to meet you.:" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1709066864161/2f0133b5-1cba-480c-bb29-e52c919ca637.png?w=1600&amp;h=840&amp;fit=crop&amp;crop=entropy&amp;auto=compress,format&amp;format=webp" decoding="async" data-nimg="responsive" class="mb-0 block w-full" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;">
 
 [![onWidget](https://custom-icon-badges.demolab.com/badge/made%20by%20-onWidget-556bf2?style=flat-square&logo=onwidget&logoColor=white&labelColor=101827)](https://onwidget.com)
 [![License](https://img.shields.io/github/license/onwidget/tailnext?style=flat-square&color=dddddd&labelColor=000000)](https://github.com/onwidget/tailnext/blob/main/LICENSE.md)
