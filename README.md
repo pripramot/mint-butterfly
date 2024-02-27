@@ -9,10 +9,9 @@
 - ✅ **Image optimization** and **Font optimization**.
 - ✅ Fast and **SEO friendly blog**.
 - ✅ Generation of **project sitemap** and **robots.txt** based on your routes.
-
+<H2>I haven't edited some components yet.</H2>
 <br>
 <img alt="Nice to meet you.:" src="https://res.cloudinary.com/dcwjok3nu/image/upload/v1709070178/SEO.png" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;">
-
 [![onWidget](https://custom-icon-badges.demolab.com/badge/made%20by%20-onWidget-556bf2?style=flat-square&logo=onwidget&logoColor=white&labelColor=101827)](https://onwidget.com)
 [![License](https://img.shields.io/github/license/onwidget/tailnext?style=flat-square&color=dddddd&labelColor=000000)](https://github.com/onwidget/tailnext/blob/main/LICENSE.md)
 [![Maintained](https://img.shields.io/badge/maintained%3F-yes-brightgreen.svg?style=flat-square)](https://github.com/onwidget)
