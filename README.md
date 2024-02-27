@@ -1,10 +1,10 @@
-# Jiraphinya
+# mint-butterfly
 
-**Tailnext** is a free and open-source template to make your website using **[NextJS](https://nextjs.org/) + [Tailwind CSS](https://tailwindcss.com/)**. Ready to start a new project and designed taking into account best practices.
+**Jiraphinya** Create with **tailnext**is a free and open-source template to make your website using **[NextJS](https://nextjs.org/) + [Tailwind CSS](https://tailwindcss.com/)**. Ready to start a new project and designed taking into account best practices.
 
 ## Features
 
-- ✅ Integration with **Tailwind CSS** supporting **Dark mode**.
+- ✅ **Jiraphinya**Integration with **Tailwind CSS** supporting **Dark mode**.
 - ✅ **Production-ready** scores in [Lighthouse](https://web.dev/measure/) and [PageSpeed Insights](https://pagespeed.web.dev/) reports.
 - ✅ **Image optimization** and **Font optimization**.
 - ✅ Fast and **SEO friendly blog**.
@@ -43,15 +43,15 @@
 
 ## Getting started
 
-- Clone: `git clone https://github.com/onwidget/tailnext.git`
-- Enter in the directory: `cd tailnext`
+- Clone: `git clone https://github.com/pripramot/mint-butterfly.git`
+- Enter in the directory: `cd mint-butterfly`
 - Install dependencies: `npm install`
 - Start the development server: `npm run dev`
 - View project in local environment: `localhost:3000`
 
 ### Project structure
 
-Inside **Tailnext** template, you'll see the following folders and files:
+Inside **Jiraphinya** template, you'll see the following folders and files:
 
 ```
 /
@@ -151,34 +151,12 @@ Coming soon ..
 
 <br>
 
-## Contributing
+## Project and deploy
 
-If you have any idea, suggestions or find any bugs, feel free to open a discussion, an issue or create a pull request.
-That would be very useful for all of us and we would be happy to listen and take action.
+Cr.Phongwut.w content Project and deploy it.
 
-## Acknowledgements
+```java script
 
-Initially created by [onWidget](https://onwidget.com) and maintained by a community of [contributors](https://github.com/onwidget/tailnext/graphs/contributors).
-
-## License
-
-**Tailnext** is licensed under the MIT license — see the [LICENSE](https://github.com/onwidget/tailnext/blob/main/LICENSE.md) file for details.
-
-```shell
-Cr.Phongwut.w content
-
-Back
-
-You're almost done.
-Please follow the steps to configure your Project and deploy it.
-
-tailnext
-Create Git Repository
-Deploy
-GIT REPOSITORY
-onwidget/tailnext
-main
-./
 Import a different Git Repository →
 Browse Templates →
 Create Git Repository
@@ -263,13 +241,13 @@ https://nextjs.org/telemetry
    Collecting page data ...
    Generating static pages (0/16) ...
 
-   Generating static pages (4/16) 
+   Generating static pages (4/16)
 
-   Generating static pages (8/16) 
+   Generating static pages (8/16)
 
-   Generating static pages (12/16) 
+   Generating static pages (12/16)
 
- ✓ Generating static pages (16/16) 
+ ✓ Generating static pages (16/16)
    Finalizing page optimization ...
    Collecting build traces ...
 Route (app)                              Size     First Load JS
@@ -303,30 +281,7 @@ $ next-sitemap
 │ indexSitemaps │   1    │
 │   sitemaps    │   1    │
 └───────────────┴────────┘
------------------------------------------------------
- SITEMAP INDICES 
------------------------------------------------------
-   ○ https://tailnext.vercel.app/sitemap.xml
------------------------------------------------------
- SITEMAPS 
------------------------------------------------------
-# ○ https://tailnext.vercel.app/sitemap-0.xml
-- Done in 38.77s.
-- Traced Next.js server files in: 62.998ms
-- Created all serverless functions in: 2.016s
-- Collected static files (public/, static/, .next/static): 8.524ms
-- Build Completed in /vercel/output [2m]
-- Deploying outputs...
-- Deployment Summary
-- Assigning Custom Domains
-Initial commit - 71089b
-Project Limit Reached
-
-## This Personal Account Avatar for pripramotPripramot Wechabut has reached the 200 project Hobby limit.
-
-To continue, please create a Pro team or select a different account.
-
+## This Personal Account Avatar for Pripramot Wechabut has reached the 200 project Hobby limit.
 Learn more about Project Limits
 
-New Project – Vercel
 ```
