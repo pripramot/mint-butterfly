@@ -1,5 +1,9 @@
 # mint-butterfly
 
+![Static Badge](https://img.shields.io/badge/Mint-Jiraphinya-blue?logo=trilium&logoColor=%23259b24&link=https%3A%2F%2Fgithub.com%2Fai-jiraphinya)
+
+
+
 **Jiraphinya** Create with **Tailnext**, is a free and open-source template to make your website using **[NextJS](https://nextjs.org/) + [Tailwind CSS](https://tailwindcss.com/)**. Ready to start a new project and designed taking into account best practices.
 
 ## Features
