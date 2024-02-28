@@ -155,6 +155,9 @@ Coming soon ..
 
 Cr.Phongwut.w content Project and deploy it.
 
+<details>
+<summary>เปิดดูรายละเอียดด้านใน. 🦋</summary>
+
 ```java script
 
 Import a different Git Repository →
@@ -284,4 +287,6 @@ $ next-sitemap
 ## This Personal Account Avatar for Pripramot Wechabut has reached the 200 project Hobby limit.
 Learn more about Project Limits
 
+## เปิดเเล้วปิดด้วย. เด้อ!
 ```
+</details>
