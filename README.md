@@ -1,6 +1,15 @@
 # mint-butterfly
 
-![Static Badge](https://img.shields.io/badge/Mint-Jiraphinya-blue?logo=trilium&logoColor=%23259b24&link=https%3A%2F%2Fgithub.com%2Fai-jiraphinya)
+<div align="center">
+  <a href="https://github.com/ai-jiraphinya">
+    <img src="https://img.shields.io/badge/Mint-Jiraphinya-blue?logo=trilium&logoColor=%23259b24&link=https%3A%2F%2Fgithub.com%2Fai-jiraphinya" alt="Mint_ - Jiraphinya badge">
+  </a>
+  <a href="https://github.com/pripramot/pripramot/watchers">
+    <img src="https://img.shields.io/github/watchers/pripramot/pripramot" alt="GitHub watchers badge">
+  </a>
+</div>
+
+
 
 
 
