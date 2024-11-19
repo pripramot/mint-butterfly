@@ -16,8 +16,8 @@ export const announcementData: AnnouncementProps = {
     href: 'https://nextjs.org/blog/next-14',
   },
   callToAction2: {
-    text: 'Follow @onWidget on Twitter',
-    href: 'https://twitter.com/intent/user?screen_name=onwidget',
+    text: 'Follow @MintLitecoin on Twitter',
+    href: 'https://twitter.com/intent/user?screen_name=MintLitecoin',
   },
 };
 
