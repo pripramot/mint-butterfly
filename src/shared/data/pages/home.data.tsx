@@ -626,7 +626,7 @@ export const contactHome: ContactProps = {
     },
     {
       title: 'Working hours',
-      description: ['Monday - Friday: 08:00 - 17:00', 'Saturday & Sunday: 08:00 - 12:00'],
+      description: ['Monday - Friday: 17:00 - 23:00', 'Saturday & Sunday: 08:00 - 23:30'],
       icon: IconClock,
     },
   ],
