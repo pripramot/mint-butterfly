@@ -621,7 +621,7 @@ export const contactHome: ContactProps = {
     },
     {
       title: 'Contact',
-      description: ['Mobile: +1 (123) 456-7890', 'Mail: tailnext@gmail.com'],
+      description: ['Mobile: +66 89-1736517', 'Mail: bangkokcustom@hotmail.com'],
       icon: IconPhoneCall,
     },
     {
