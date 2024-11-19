@@ -26,9 +26,9 @@ const Announcement = () => {
           title={callToAction2.text}
         >
           <img
-            src="https://img.shields.io/twitter/follow/phongwut_w?labelColor=blue&link=https%3A%2F%2Ftwitter.com%2Fphongwut_w
+            src="https://img.shields.io/twitter/follow/MintLitecoin?labelColor=blue&link=https%3A%2F%2Ftwitter.com%2FMintLitecoin
 "
-            alt="Follow @phongwut_w"
+            alt="Follow @MintLitecoin"
             width="125"
             height="20"
           />
