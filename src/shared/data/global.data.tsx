@@ -234,15 +234,15 @@ export const footerData2: FooterProps = {
   columns: [
     {
       title: 'Address',
-      texts: ['51 Phasellus Avenue Maecenas', 'Aliquam, AQ 52098'],
+      texts: ['1643 หมู่บ้านศุภาลัยวิลล์ ถ.ลาซาล แขวงบางใต้ เขตบางนา ', 'กรุงเทพมหานคร,  10260'],
     },
     {
       title: 'Phone',
-      texts: ['Reception: +105 123 4567', 'Office: +107 235 7890'],
+      texts: ['Reception: +66 89-1736517', 'Office: +66 89-1736517'],
     },
     {
       title: 'Email',
-      texts: ['Office: info@example.com', 'Site: https://example.com'],
+      texts: ['Office: bangkokcustom@hotmail.com', 'Site: https://bangkokcustom.com/'],
     },
   ],
   socials: [
@@ -258,7 +258,7 @@ export const footerData2: FooterProps = {
       Made by{' '}
       <a
         className="font-semibold text-slate-900 dark:text-gray-200 hover:text-blue-600 hover:underline dark:hover:text-blue-600"
-        href="https://onwidget.com/"
+        href="https://bangkokcustom.com/"
       >
         {' '}
         onWidget
